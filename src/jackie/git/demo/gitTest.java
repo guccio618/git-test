@@ -6,6 +6,8 @@ public class gitTest {
 		System.out.println("[step 1]: in master branch");
 		
 		System.out.println("[step 2]: in branch-1 branch");
+		
+		System.out.println("[step 3]: in branch-2 branch");
 
 	}
 }
