@@ -11,5 +11,7 @@ public class gitTest {
 
 		System.out.println("[step 4]: in branch-3 branch");
 		
+		System.out.println("[step 5]: in branch-4 branch");
+		
 	}
 }
